@@ -11,4 +11,4 @@ A demo repo to discuss how to document technical communication.
 
 ## Image
 
-Since this is getting wayy too all over the place anyway, why not a random [picture?] (![example-photography](https://user-images.githubusercontent.com/48843553/122628917-b9682900-d07e-11eb-910d-f377a469df6c.jpeg))
+Since this is getting wayy too all over the place anyway, why not a random [picture?] (![example-photography](https://user-images.githubusercontent.com/48843553/122628917-b9682900-d07e-11eb-910d-f377a469df6c.jpeg)
